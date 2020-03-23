@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythorch_Tensors.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1584621648264</updated>
       <workItem from="1584621656549" duration="7790000" />
+      <workItem from="1584868479540" duration="20000" />
+      <workItem from="1584880968567" duration="4000" />
+      <workItem from="1584963427980" duration="146000" />
+      <workItem from="1584963618923" duration="2169000" />
     </task>
     <servers />
   </component>
@@ -85,32 +89,32 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584621927497" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584633304933">
+    <state width="916" height="282" key="GridCell.Tab.0.bottom" timestamp="1584970735057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584633304933" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584633304933">
+    <state width="916" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735057" />
+    <state width="916" height="282" key="GridCell.Tab.0.center" timestamp="1584970735056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584633304933" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584633304933">
+    <state width="916" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
+    <state width="916" height="282" key="GridCell.Tab.0.left" timestamp="1584970735056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584633304933" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584633304933">
+    <state width="916" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
+    <state width="916" height="282" key="GridCell.Tab.0.right" timestamp="1584970735056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584633304933" />
+    <state width="916" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1584621910039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584621910039" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584621657112">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584963619390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584621657112" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584963619390" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyTorch$Pythorch_Tensors.coverage" NAME="Pythorch_Tensors Coverage Results" MODIFIED="1584633294617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyTorch$Pythorch_Tensors.coverage" NAME="Pythorch_Tensors Coverage Results" MODIFIED="1584963805160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
