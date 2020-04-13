@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="" />
+    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AI_Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +32,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KE" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="Pythorch_Tensors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GPU_Acceleration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_Framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +49,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythorch_Tensors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GPU_Acceleration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pythorch_Tensors" />
+        <item itemvalue="Python.GPU_Acceleration" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +83,10 @@
       <workItem from="1585213608933" duration="43000" />
       <workItem from="1585213767579" duration="18000" />
       <workItem from="1585224628706" duration="7000" />
+      <workItem from="1586769411375" duration="188000" />
+      <workItem from="1586769617111" duration="314000" />
+      <workItem from="1586770084370" duration="538000" />
+      <workItem from="1586770715356" duration="3273000" />
     </task>
     <servers />
   </component>
@@ -87,36 +94,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584621927497">
+    <state x="554" y="197" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586772373005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584621927497" />
-    <state width="916" height="282" key="GridCell.Tab.0.bottom" timestamp="1584970735057">
+    <state x="554" y="197" width="1092" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586772373005" />
+    <state x="112" y="114" key="CommitChangelistDialog2" timestamp="1586770752732">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735057" />
-    <state width="916" height="282" key="GridCell.Tab.0.center" timestamp="1584970735056">
+    <state x="112" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586770752732" />
+    <state x="314" y="239" key="EnvironmentVariablesDialog" timestamp="1586772360614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
-    <state width="916" height="282" key="GridCell.Tab.0.left" timestamp="1584970735056">
+    <state x="314" y="239" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586772360614" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586771800371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
-    <state width="916" height="282" key="GridCell.Tab.0.right" timestamp="1584970735056">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586771800371" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1586774078048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584970735056" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1584621910039">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1586774078048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584621910039" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585224629795">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1586774078048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585224629795" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1586774078048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
+    <state x="468" y="151" key="SettingsEditor" timestamp="1586773086668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586773086668" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586770716568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586770716568" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyTorch$Pythorch_Tensors.coverage" NAME="Pythorch_Tensors Coverage Results" MODIFIED="1584963805160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI_Framework$GPU_Acceleration.coverage" NAME="GPU_Acceleration Coverage Results" MODIFIED="1586772452634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
