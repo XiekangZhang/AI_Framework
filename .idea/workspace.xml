@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI_Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Oreilly_Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -87,6 +84,7 @@
       <workItem from="1586769617111" duration="314000" />
       <workItem from="1586770084370" duration="538000" />
       <workItem from="1586770715356" duration="3273000" />
+      <workItem from="1586791012842" duration="16000" />
     </task>
     <servers />
   </component>
@@ -106,10 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="239" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586772360614" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586771800371">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586791027457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586771800371" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586791027457" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1586774078048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -130,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586773086668" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586770716568">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586791013085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586770716568" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586791013085" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyTorch$Pythorch_Tensors.coverage" NAME="Pythorch_Tensors Coverage Results" MODIFIED="1584963805160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
