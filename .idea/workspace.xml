@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="" />
+    <list default="true" id="326ea91a-b81b-4166-ac56-b2ee00c216c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPU_Acceleration.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPU_Acceleration.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +88,8 @@
       <workItem from="1586770084370" duration="538000" />
       <workItem from="1586770715356" duration="3273000" />
       <workItem from="1586791012842" duration="16000" />
+      <workItem from="1588542660854" duration="76000" />
+      <workItem from="1588669093049" duration="14000" />
     </task>
     <servers />
   </component>
@@ -108,33 +113,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586791027457" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1586774078048">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1588542736991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1586774078048">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588542736991" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1588542736991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1586774078048">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588542736991" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1588542736991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1586774078048">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588542736991" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1588542736991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586774078048" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588542736991" />
     <state x="468" y="151" key="SettingsEditor" timestamp="1586773086668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586773086668" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586791013085">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588669093685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586791013085" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588669093685" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyTorch$Pythorch_Tensors.coverage" NAME="Pythorch_Tensors Coverage Results" MODIFIED="1584963805160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AI_Framework$GPU_Acceleration.coverage" NAME="GPU_Acceleration Coverage Results" MODIFIED="1586772452634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AI_Framework$GPU_Acceleration.coverage" NAME="GPU_Acceleration Coverage Results" MODIFIED="1588792849103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

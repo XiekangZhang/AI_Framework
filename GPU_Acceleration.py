@@ -1,16 +1,6 @@
 import tensorflow as tf
 import time
 
-# print(tf.__version__, tf.test.is_gpu_available())
-
-x = tf.random.uniform([3, 3])
-
-print("Is there a GPU available: "),
-print(tf.config.experimental.list_physical_devices("GPU"))
-
-print("Is the Tensor on GPU #0:  "),
-print(x.device.endswith('GPU:0'))
-
 
 def time_matmul(x):
     start = time.time()
@@ -36,3 +26,12 @@ if tf.config.experimental.list_physical_devices("GPU"):
         x = tf.random.uniform([1000, 1000])
         assert x.device.endswith("GPU:0")
         time_matmul(x)
+# print(tf.__version__, tf.test.is_gpu_available())
+if __name__ == '__main__':
+    x = tf.random.uniform([3, 3])
+
+    print("Is there a GPU available: "),
+    print(tf.config.experimental.list_physical_devices("GPU"))
+
+    print("Is the Tensor on GPU #0:  "),
+    print(x.device.endswith('GPU:0'))
